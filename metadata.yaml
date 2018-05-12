@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25482'
     url: http://www.gutenberg.org/2009/agents/25482
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22677#Greece-and-the-Allies-1914-1922
 gutenberg_bookshelf:
 - Greece
 - World War I
